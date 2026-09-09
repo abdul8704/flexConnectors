@@ -1,0 +1,1 @@
+"""Resume Intelligence application package."""
